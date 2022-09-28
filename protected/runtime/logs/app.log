@@ -1,0 +1,610 @@
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:52 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51198'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_COOKIE' => 'PHPSESSID=lj2042ldane3ql424tjmjdv11g'
+    'REQUEST_TIME_FLOAT' => 1664322832.0418
+    'REQUEST_TIME' => 1664322832
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:53:52 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'could not find driver' 
+
+in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-09-27 23:53:52 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51198'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_COOKIE' => 'PHPSESSID=lj2042ldane3ql424tjmjdv11g'
+    'REQUEST_TIME_FLOAT' => 1664322832.0418
+    'REQUEST_TIME' => 1664322832
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:53:53 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51338'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322833.4476
+    'REQUEST_TIME' => 1664322833
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:53:53 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'could not find driver' 
+
+in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-09-27 23:53:53 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51338'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322833.4476
+    'REQUEST_TIME' => 1664322833
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:00 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51353'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_COOKIE' => 'PHPSESSID=lj2042ldane3ql424tjmjdv11g; _csrf=5e9dcb9a234c119cda9b542ef23fb76535509ff539c62996adc7fc3a8052ce67a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22GuKPRrwayEsIERauZzpg7XrQBF9Kh6iv%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1664322840.6507
+    'REQUEST_TIME' => 1664322840
+    'argv' => [
+        0 => 'r=installer%2Fsetup%2Fprerequisites'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:00 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'could not find driver' 
+
+in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-09-27 23:54:00 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51353'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_COOKIE' => 'PHPSESSID=lj2042ldane3ql424tjmjdv11g; _csrf=5e9dcb9a234c119cda9b542ef23fb76535509ff539c62996adc7fc3a8052ce67a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22GuKPRrwayEsIERauZzpg7XrQBF9Kh6iv%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1664322840.6507
+    'REQUEST_TIME' => 1664322840
+    'argv' => [
+        0 => 'r=installer%2Fsetup%2Fprerequisites'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:01 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51450'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322841.4457
+    'REQUEST_TIME' => 1664322841
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:01 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'could not find driver' 
+
+in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-09-27 23:54:01 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51450'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322841.4457
+    'REQUEST_TIME' => 1664322841
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-09-27 23:54:12 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '49198'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322852.5153
+    'REQUEST_TIME' => 1664322852
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
+2022-09-27 23:54:12 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'could not find driver' 
+
+in C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\Users\steph\OneDrive\Área de Trabalho\humhub-1.12.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-09-27 23:54:12 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '49198'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/index.php?r=installer%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => 'C:\\Users\\steph\\OneDrive\\Área de Trabalho\\humhub-1.12.1\\index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'HTTP_HOST' => 'localhost:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost:8000/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'REQUEST_TIME_FLOAT' => 1664322852.5153
+    'REQUEST_TIME' => 1664322852
+    'argv' => [
+        0 => 'r=installer%2Findex'
+    ]
+    'argc' => 1
+]
